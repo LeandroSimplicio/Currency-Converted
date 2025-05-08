@@ -12,7 +12,6 @@ Este é um simples conversor de moedas desenvolvido com **HTML**, **CSS** e **Ja
 - [Como Utilizar](#como-utilizar)  
   - [Pré-requisitos](#pré-requisitos)  
   - [Instalação](#instalação)  
-  - [Uso](#uso)  
 - [Autores](#autores)  
  
 
